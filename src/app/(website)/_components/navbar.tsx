@@ -10,7 +10,6 @@ const LandingPageNavbar = () => {
         <Image src="/opal-logo.svg" alt="logo" width={40} height={40} />
         Opal
       </div>
-      LandingPageNavbar
     </div>
   );
 };
